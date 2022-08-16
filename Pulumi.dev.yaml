@@ -1,1 +1,4 @@
 encryptionsalt: v1:6Xlj5XF4oME=:v1:YYmnQ7Rb4F0TxZvy:0vZIuIRqfP4sUhConpCLInjMP4H43A==
+config:
+  gophercon:accessToken:
+    secure: v1://MiOrB2WWIX5oR8:GHD8uTx70i9z+ehPR+6p/QQJfUPU9Q==
